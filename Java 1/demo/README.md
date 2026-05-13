@@ -1,10 +1,7 @@
-
-<img width="1920" height="1020" alt="greeting" src="https://github.com/user-attachments/assets/457f3af2-a1ee-4f20-83c8-ca3b1d572da4" />
-<img width="1920" height="1020" alt="console" src="https://github.com/user-attachments/assets/1d5e0b63-bb94-49b0-9aaf-93c56170acff" />
-<img width="1920" height="1020" alt="application" src="https://github.com/user-attachments/assets/53738640-0a1b-4c54-a24a-164d15372ef4" />/>
-<img width="1920" height="1020" alt="greeting" src="https://github.com/user-attachments/assets/bd618ade-ff92-4c7a-9db0-2db801733521" />
-<img width="1920" height="1020" alt="console" src="https://github.com/user-attachments/assets/3d2f27a2-be1c-4576-af2b-9cd338e17962" />
-<img width="1920" height="1020" alt="application" src="https://github.com/user-attachments/assets/1254fc9d-60ca-407a-9458-d4729b407592" />
+<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/a0b886fe-a6f2-41fb-a46e-273a43e18ee0" />
+<img width="1920" height="1020" alt="greeting" src="https://github.com/user-attachments/assets/43ade5da-302f-4a23-b647-e431c0cbc24e" />
+<img width="1920" height="1020" alt="console" src="https://github.com/user-attachments/assets/0d01145a-57f3-4f70-8632-b0ab9c34b58f" />
+<img width="1920" height="1020" alt="application" src="https://github.com/user-attachments/assets/01a214bf-80e4-4bde-b663-6ffccba5d5c6" />
 
 # Spring Framework App – Project 1
 
