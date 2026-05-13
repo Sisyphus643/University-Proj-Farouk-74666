@@ -1,3 +1,7 @@
+<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/home.png" />
+<img width="1920" height="1020" alt="greeting" src="https://github.com/user-attachments/assets/bd618ade-ff92-4c7a-9db0-2db801733521" />
+<img width="1920" height="1020" alt="console" src="https://github.com/user-attachments/assets/3d2f27a2-be1c-4576-af2b-9cd338e17962" />
+<img width="1920" height="1020" alt="application" src="https://github.com/user-attachments/assets/1254fc9d-60ca-407a-9458-d4729b407592" />
 
 # Spring Framework App – Project 1
 
