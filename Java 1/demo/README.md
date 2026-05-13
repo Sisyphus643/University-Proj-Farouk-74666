@@ -1,3 +1,7 @@
+<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/f429912f-7038-469a-9fe1-7a528c642ab5" />
+<img width="1920" height="1020" alt="greeting" src="https://github.com/user-attachments/assets/457f3af2-a1ee-4f20-83c8-ca3b1d572da4" />
+<img width="1920" height="1020" alt="console" src="https://github.com/user-attachments/assets/1d5e0b63-bb94-49b0-9aaf-93c56170acff" />
+<img width="1920" height="1020" alt="application" src="https://github.com/user-attachments/assets/53738640-0a1b-4c54-a24a-164d15372ef4" />
 # Spring Framework App – Project 1
 
 ## Author
@@ -234,7 +238,6 @@ src/main/resources/templates
 
 ## Application Running
 
-(Add screenshot here)
 
 ```md
 ![Application](screenshots/application.png)
@@ -244,7 +247,6 @@ src/main/resources/templates
 
 ## Home Endpoint
 
-(Add screenshot here)
 
 ```md
 ![Home](screenshots/home.png)
@@ -254,7 +256,6 @@ src/main/resources/templates
 
 ## Greeting Page
 
-(Add screenshot here)
 
 ```md
 ![Greeting](screenshots/greeting.png)
@@ -264,7 +265,6 @@ src/main/resources/templates
 
 ## Console Output
 
-(Add screenshot here)
 
 ```md
 ![Console](screenshots/console.png)
