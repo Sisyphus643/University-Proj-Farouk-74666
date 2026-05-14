@@ -372,16 +372,6 @@ Example response:
 
 ## Screenshots
 
-Add your screenshots inside the `screenshots` folder.
-
-Example:
-
-```text
-screenshots/swagger.png
-screenshots/postman-create.png
-screenshots/h2-console.png
-screenshots/database-products.png
-```
 
 Then add them below:
 
