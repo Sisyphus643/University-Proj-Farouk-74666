@@ -1,3 +1,6 @@
+<img width="1920" height="1020" alt="Screenshot 2026-05-13 221036" src="https://github.com/user-attachments/assets/f3aa8a0b-c99e-42c9-a8ff-80f292fdcb57" />
+<img width="1920" height="1020" alt="Screenshot 2026-05-13 221029" src="https://github.com/user-attachments/assets/b3b157d6-5710-4999-beac-6dbfcadbd799" />
+<img width="1920" height="1020" alt="Screenshot 2026-05-13 220944" src="https://github.com/user-attachments/assets/90f64fcb-6817-49d0-b915-253fa8f7bfc8" />
 # Task 2P - Spring Boot REST API
 
 ## Author
